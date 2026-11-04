@@ -66,7 +66,8 @@ I specialize in building **microservices** with robust architectures to scale an
 I actively work on projects related to AI, and full-stack development. Feel free to explore my repositories to see my latest work. I am always open to collaboration and new opportunities.
 
 - LinkedIn: https://www.linkedin.com/in/mzd/  
-- Email: musabzafar63@example.com  
+- Email: musabzafar63@example.com
+- Website: https://www.musabzafar.com/
 
 ---
 
