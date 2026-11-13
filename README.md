@@ -1,5 +1,3 @@
-# **Musab Zafar**
-
 **Full Stack Software Engineer | AI Engineer**  
 Building scalable web applications and high‑impact software solutions.
 
