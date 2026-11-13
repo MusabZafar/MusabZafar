@@ -1,6 +1,6 @@
-# **Musab Zafar **
+# Musab Zafar
 
-**Full Stack Software Engineer | AI Engineer**  
+**Full Stack Software Engineer | AI Engineer**
 Building scalable web applications and high‑impact software solutions.
 
 Passionate about tech, coding, and problem solving
@@ -68,9 +68,6 @@ I actively work on projects related to AI, and full-stack development. Feel free
 - LinkedIn: https://www.linkedin.com/in/mzd/  
 - Email: musabzafar63@example.com
 - Website: https://www.musabzafar.com/
-
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusabZafar/MusabZafar/output/github-contribution-grid-snake-dark.svg">
