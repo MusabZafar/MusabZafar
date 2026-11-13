@@ -69,5 +69,16 @@ I actively work on projects related to AI, and full-stack development. Feel free
 
 ---
 
+---
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusabZafar/MusabZafar/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/MusabZafar/MusabZafar/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 Thanks for visiting my profile! 👨‍💻✨
 
